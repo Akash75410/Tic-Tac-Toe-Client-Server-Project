@@ -30,7 +30,6 @@ This is a simple two-player Tic-Tac-Toe game implemented using Python, with a cl
 - **JSON**: Used to structure communication between the client and the server.
 
 ## Installation
-
 1. Clone the repository to your local machine:
    git clone https://github.com/yourusername/tic-tac-toe-game.git
    cd tic-tac-toe-game
@@ -46,10 +45,15 @@ This is a simple two-player Tic-Tac-Toe game implemented using Python, with a cl
   
 **##How to Play**
 1.Start the server on one machine or terminal.
+
 2.Start the client (here game.py) on two separate machines or terminals (connecting to the server).
+
 3.Enter your nickname when prompted.
+
 4.The game will begin with Player 1 being assigned 'X' and Player 2 being assigned 'O'.
+
 5.Players take turns to place their symbols on the board by entering a number between 0 and 8, which corresponds to the position on the game board (from top-left to bottom-right).
+
 6.The game will notify you when it's your turn, when the opponent's turn is happening, and the final result (win/draw).
 
 **Contributing**
