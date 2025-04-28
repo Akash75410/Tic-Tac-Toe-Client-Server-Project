@@ -34,10 +34,13 @@ This is a simple two-player Tic-Tac-Toe game implemented using Python, with a cl
 1. Clone the repository to your local machine:
    git clone https://github.com/yourusername/tic-tac-toe-game.git
    cd tic-tac-toe-game
+   
 2.Install the required dependencies:
   pip install pygame
+  
 3.Run the server:
   python server/main.py
+  
 4.Run the client:
   python client/game.py
   
