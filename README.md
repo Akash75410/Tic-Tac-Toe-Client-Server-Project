@@ -56,9 +56,4 @@ This is a simple two-player Tic-Tac-Toe game implemented using Python, with a cl
 
 6.The game will notify you when it's your turn, when the opponent's turn is happening, and the final result (win/draw).
 
-**Contributing**
-This project is a collaborative effort between:
-Akash K (SRN: PES1UG23CS042) - Client-side development
-Abhijnan B C (SRN: PES1UG23CS013) - Server-side development
-
 Feel free to fork this repository and contribute!
